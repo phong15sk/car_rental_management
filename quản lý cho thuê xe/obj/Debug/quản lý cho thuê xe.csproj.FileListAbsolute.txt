@@ -1,0 +1,17 @@
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\bin\Debug\quản lý cho thuê xe.exe.config
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\bin\Debug\quản lý cho thuê xe.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\bin\Debug\quản lý cho thuê xe.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản lý cho thuê xe.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản_lý_cho_thuê_xe.Form1.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản_lý_cho_thuê_xe.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản lý cho thuê xe.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản lý cho thuê xe.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản lý cho thuê xe.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản_lý_cho_thuê_xe.Form3OXeMay.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản_lý_cho_thuê_xe.FormThueXeDap.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản_lý_cho_thuê_xe.FormDanhSachNguoiThue.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản_lý_cho_thuê_xe.FormTinhTien.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản_lý_cho_thuê_xe.FormCaiDat.resources
+D:\kĩ thuật lập trình + lập trình hướng đối tượng\lập trình hướng đội tượng\Chương_10_Kế Thừa\quản lý cho thuê xe\bin\Debug\quản lý cho thuê xe.exe.config
+D:\kĩ thuật lập trình + lập trình hướng đối tượng\lập trình hướng đội tượng\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản lý cho thuê xe.exe
+D:\kĩ thuật lập trình + lập trình hướng đối tượng\lập trình hướng đội tượng\Chương_10_Kế Thừa\quản lý cho thuê xe\obj\Debug\quản lý cho thuê xe.pdb
